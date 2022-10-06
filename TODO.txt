@@ -1,0 +1,35 @@
+=== Required Features ===
+- Plot a labelled bar chart that presents the
+number of titles existing in each genre type 
+(using matplotlib)
+- Data Validation
+
+= Add docstrings.
+
+=== Complete ===
+
++ Output a list of record titles and their
+respective details, with a summary report
+displaying the total number of tiles in stock
+and the value of records in stock.
++ Output a list of record titles and their
+details which are above a user provided price
+threshold.
++ Output a report giving the number of records
+existing in each genre type.
+
+Genres: Rock, Classical, Pop, Jazz, Spoken Word,
+-Query if a record title is available and present
+an option of:
+A: Increasing stock level.
+B: Decreasing stock level.
+If the stock level is decreased to zero indicate
+to the user that the recored is currently out of
+stock.
+- Option to add a new record and present a
+summary report displaying the new total number
+of titles in stock and the new total of
+records in stock. The record which you should add
+is one copy of the LP Radio Silence, by the
+Neil Cowley Trio at £12.99. The Neil Cowley
+Trio is a Jazz group.
